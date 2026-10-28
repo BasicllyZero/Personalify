@@ -6,7 +6,7 @@ A personal-first browser music library preview.
 
 - Add local audio files and play them in the browser.
 - Search your library, mark favorites, shuffle, repeat, seek, and control volume.
-- Export and restore a Personalify `.pfy` backup.
+- Export and restore a ZIP-compatible Personalify `.pfy` archive (audio files plus library settings).
 - Responsive dark interface.
 
 ## Important limitations
